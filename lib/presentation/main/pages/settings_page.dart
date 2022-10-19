@@ -52,6 +52,8 @@ class _SettingsPageState extends State<SettingsPage> {
   }
   bool  isRtl()
   {
+    {}
      return context.locale==ARABIC_Locale;
   }
+
 }
