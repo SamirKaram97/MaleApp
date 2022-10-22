@@ -1,0 +1,61 @@
+{
+   "noRouteFound":"No Route found",
+
+   "onboardingTitle1":"SEE THE BEST COURSE #1",
+   "onboardingTitle2":"SEE THE BEST COURSE #2",
+   "onboardingTitle3":"SEE THE BEST COURSE #3",
+   "onboardingTitle4":"SEE THE BEST COURSE #4",
+
+   "onboardingSubTitle1":"Tut app is an awesome flutter application using clean architecture #1",
+   "onboardingSubTitle2":"Tut app is an awesome flutter application using clean architecture #2",
+   "onboardingSubTitle3":"Tut app is an awesome flutter application using clean architecture #3",
+   "onboardingSubTitle4":"Tut app is an awesome flutter application using clean architecture #4",
+
+
+   "skip":"Skip",
+
+   "userName":"User name",
+   "name":"Name",
+   "email":"Email",
+   "password":"Password",
+   "mobileNumber":"Mobile Number",
+   "profilePicture":"Profile Picture",
+
+   "forgetPassword":"Forget password",
+   "notAMember":"Not a member ? Sign up",
+   "resend":"Didn’t recieve email ? Resesnd",
+   "alreadyHaveAnAccount":"Already have an account ? Login",
+   "login":"Login",
+   "send":"send",
+   "register":"register",
+
+
+   "userNameValidErrorMessage":"User Name is not valid",
+   "mobileNumberValidErrorMessage":"Mobile Number is not valid",
+   "passwordValidErrorMessage":"Password is not valid",
+   "emailValidErrorMessage":"Email is not valid",
+
+
+   "tryAgain":"try again",
+   "loading":"Loading",
+   "error":"Error",
+   "ok":"Ok",
+   "success":"Success",
+
+
+   "home":"Home",
+   "search":"Search",
+   "notifications":"Notifications",
+   "settings":"Settings",
+
+   "details":"Details",
+   "services":"Services",
+   "aboutStore":"About Store",
+
+
+
+   "changeLanguage":"Change language",
+   "contactUs":"Contact Us",
+   "inviteYourFriends":"Invite Your Friends",
+   "logout":"Logout"
+}

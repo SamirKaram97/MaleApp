@@ -2,7 +2,7 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:maleapp/presentation/font_manger.dart';
+import 'package:maleapp/presentation/resources/font_manger.dart';
 
 TextStyle _getTextStyle({required Color color,String fontFamily=FontConstants.fontsFamily,required FontWeight fontWeight,double fontSize=FontSize.s12})
 {

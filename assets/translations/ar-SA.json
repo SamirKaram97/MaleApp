@@ -1,0 +1,53 @@
+{
+  "noRouteFound": "لا توجد شاشه",
+
+  "onboardingTitle1": "شاهد افضل كورس #١",
+  "onboardingTitle2": "شاهد افضل كورس #٢",
+  "onboardingTitle3": "شاهد افضل كورس #٣",
+  "onboardingTitle4": "شاهد افضل كورس #٤",
+
+  "onboardingSubTitle1": "تطبيق توت يكون تطبيق رائع باستخدام اساس منظم #١",
+  "onboardingSubTitle2": "تطبيق توت يكون تطبيق رائع باستخدام اساس منظم #٢",
+  "onboardingSubTitle3": "تطبيق توت يكون تطبيق رائع باستخدام اساس منظم #٣",
+  "onboardingSubTitle4": "تطبيق توت يكون تطبيق رائع باستخدام اساس منظم #٤",
+
+  "skip": "تخطي",
+
+  "userName": "اسم المستخدم",
+  "name": "الاسم",
+  "password": "كلمه السر",
+  "mobileNumber": "رقم الهاتف",
+  "profilePicture": "الصورة الشخصية",
+
+  "login": "تسجيل الدخول",
+  "notAMember": "لم تقم بالتسجيل؟ سجل الان",
+  "resend": "حاول مره اخرق",
+  "ok": "موافق",
+  "userNameValidErrorMessage": "اسم المستخدم غير صحيح",
+  "mobileNumberValidErrorMessage": "رقم الهاتف غير صحيح",
+  "emailValidErrorMessage": "البريد الاليكتروني غير صحيح",
+  "register": "التسجيل",
+
+  "alreadyHaveAnAccount": "لديك جساب بالفعل؟ قم بتسجيل الدخول",
+
+  "email": "البريذ الالكتروني",
+  "notifications": "الاشعارات",
+  "search": "البحث",
+  "home": "الرىيسيه",
+  "settings": "الاعدادات",
+
+  "services": "الخدمات",
+  "stores": "المتاجر",
+  "aboutStore": "عن المتجر",
+  "details": "التفاصيل",
+  "store_details": "تفصايل المتجر",
+  "success": "تم النجاح",
+
+  "changeLanguage": "تغيير اللغة",
+
+  "contactUs": "اتصل بنا",
+  "inviteYourFriends": "قم بدعوة أصدقائك",
+  "logout": "تسجيل الخروج",
+  "forgetPassword": "اعاده تعيين كلمه السر"
+
+}
